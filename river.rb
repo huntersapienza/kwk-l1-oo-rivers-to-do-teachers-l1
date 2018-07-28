@@ -10,4 +10,3 @@ class River
 end
 
 
-test_river = River.new
